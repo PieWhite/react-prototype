@@ -1,1 +1,1 @@
-PlanJeTrip Prototype voor het OOSE Project
+React Prototype voor het OOSE Project
